@@ -8,7 +8,7 @@ discord.py==1.0.1
 googletrans==2.4.0
 idna==2.8
 multidict==4.5.2
-psutil==5.6.1
+psutil==5.6.6
 requests==2.21.0
 urllib3==1.24.2
 websockets==6.0
